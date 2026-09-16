@@ -7,7 +7,7 @@ Para mirar el resultado de cada ejercicio del taller, el programa cuenta con un 
 
 Seleccione una categoría ingresando el índice correspondiente (1 para Arrays, 2 para ArrayList y 3 para Matrices) del mismo modo, ingrese el número del ejercicio correspondiente una vez haya seleccionado una categoría, el programa mostrara en consola automáticamente el menú de los ejercicios según la categoría elegida.
 
-  ##Presentado por:
+  ## PRESENTADO POR
   Andrés Uriel Sandoval Camayo.
   Programa: Ing.Informática | IV Semestre.
   Asignatura: Estructura de Datos Lineales.
