@@ -1,18 +1,13 @@
-## Getting Started
+## GUÍA DE USO DEL PROGRAMA
+Para mirar el resultado de cada ejercicio del taller, el programa cuenta con un menú principal divido en 3 categorías:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Arrays (Ejercicios del 1-5)
+- ArrayList (Ejercicios del 6-10)
+- Matrices (Ejercicios del 11 al 15)
 
-## Folder Structure
+Seleccione una categoría ingresando el índice correspondiente (1 para Arrays, 2 para ArrayList y 3 para Matrices) del mismo modo, ingrese el número del ejercicio correspondiente una vez haya seleccionado una categoría, el programa mostrara en consola automáticamente el menú de los ejercicios según la categoría elegida.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  ##Presentado por:
+  Andrés Uriel Sandoval Camayo.
+  Programa: Ing.Informática | IV Semestre.
+  Asignatura: Estructura de Datos Lineales.
